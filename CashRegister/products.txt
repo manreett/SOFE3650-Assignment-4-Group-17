@@ -1,0 +1,4 @@
+ABC-abc-1234 Banana 500
+ABC-abc-1235 Candle 70
+ABC-abc-1236 Shampoo 320
+ABC-def-1234 Apple 100
