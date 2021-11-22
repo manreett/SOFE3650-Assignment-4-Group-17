@@ -3,3 +3,5 @@ In this assignment , we developed a multi-module application by using a NetBeans
 # Table of Contents :
 1.) Exercise_1 Code 
 2.) Exercise_1 Outputs 
+3.)Exercise_2 Cash Register 
+4.)Cash Register Output
